@@ -1,0 +1,19 @@
+[SYNTH_DATA]
+tmp_dir = tmp/
+output_dir = output/
+bg_dir = backgrounds/
+action_dir = actions/
+texture_dir = textures/
+model_dir = models/
+spher_dir = sphers/
+shape_dir = shapes/
+
+iterate = 3
+h_img = 400
+w_img = 600
+fps = 30
+
+depth = 1
+part_segmentation = 1
+surface_normal = 1
+optical_flow = 1

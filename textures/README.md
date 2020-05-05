@@ -1,0 +1,1 @@
+Clothing texture files are placed in this folder.

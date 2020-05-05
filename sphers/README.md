@@ -1,0 +1,1 @@
+Spherical harmonics file is placed in this folder.

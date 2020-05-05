@@ -1,0 +1,1 @@
+Background images for outside are placed in this folder.
