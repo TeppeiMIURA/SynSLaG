@@ -8,7 +8,7 @@
 
 ## Tool user manual
 In order to download the SynSLaG source code and body models, you need to agree the license terms.
-The links to license terms are available here: https://github.com/TeppeiMIURA/SynSLaG/LICENSE.md
+The links to license terms are available here: [https://github.com/TeppeiMIURA/SynSLaG/LICENSE.md](https://github.com/TeppeiMIURA/SynSLaG/blob/master/LICENSE.md)
 
 ### 1. Preparation
 
@@ -87,4 +87,4 @@ Be submitting...
 ```
 
 ## License
-Please check the [license terms](https://github.com/TeppeiMIURA/SynSLaG/LICENSE.md) before downloading and/or using the source code and body models.
+Please check the [license terms](https://github.com/TeppeiMIURA/SynSLaG/blob/master/LICENSE.md) before downloading and/or using the source code and body models.

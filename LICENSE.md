@@ -47,4 +47,4 @@ Under no circumstances shall Owners be liable for any incidental, special, indir
 You understand and agree that Owners are under no obligation to provide either maintenance services, update services, notices of latent defects, or corrections of defects with regard to SynSLaG. Owners nevertheless reserve the right to update, modify, or discontinue SynSLaG at any time.
 
 ## Publication with SynSLaG
-You agree to cite the SynSLaG paper when reporting results with this tool. The [README](https://github.com/TeppeiMIURA/SynSLaG/README.md) lists the most up to date bibliographic information.
+You agree to cite the SynSLaG paper when reporting results with this tool. The [README](https://github.com/TeppeiMIURA/SynSLaG/blob/master/README.md) lists the most up to date bibliographic information.
