@@ -20,6 +20,8 @@ You need download 3D motion data following:
 However, the Japanese sign language database has been constructing.
 Please wait for publishing.
 
+***If you have any interesting to the database, please contact to Shinji SAKO (s.sako@nitech.ac.jp).***
+
 #### 1.2. Synthetic ingredients from SURREAL dataset
 You need to download some ingredients from https://github.com/gulvarol/surreal in order to run the synthetic data generation.
 Once you read and agree on SURREAL license terms and have access to download.
