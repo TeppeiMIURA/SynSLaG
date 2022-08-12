@@ -82,7 +82,21 @@ tools/RestSynthData.py --file output/(filename).tar.gz
 If you use this tool, please cite the following:
 
 ```
-Be submitting...
+@inproceedings{10.1145/3441852.3476519,
+    author = {Miura, Teppei and Sako, Shinji},
+    title = {SynSLaG: Synthetic Sign Language Generator},
+    year = {2021},
+    isbn = {9781450383066},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3441852.3476519},
+    doi = {10.1145/3441852.3476519},
+    booktitle = {The 23rd International ACM SIGACCESS Conference on Computers and Accessibility},
+    articleno = {90},
+    numpages = {4},
+    location = {Virtual Event, USA},
+    series = {ASSETS '21}
+}
 ```
 
 ## License
